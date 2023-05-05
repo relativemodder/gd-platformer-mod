@@ -1,0 +1,11 @@
+﻿{
+  "configurations": [
+    {
+      "name": "x86-Release",
+      "cmakeExecutable": "C:\\Program Files\\CMake\\bin\\cmake.exe",
+      "configurationType": "RelWithDebInfo",
+      "inheritEnvironments": [ "msvc_x86" ],
+      "buildRoot": "${projectDir}\\build"
+    }
+  ]
+}
